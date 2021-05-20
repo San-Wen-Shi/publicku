@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo5-事件</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+    <script>
+        var app = angular.module('myApp',[]);
+        app.controller("myController",function ($scope) { // 名字myController的class，可以有属性，方法
+            $scope.add=function () { //名字叫add的方法
+                $scope.z = parseInt($scope.x) + parseInt($scope.y);
+            }
+        })
+    </script>
+</head>
+<!--V,在v中划分某个模块下的某个C-->
+<body ng-app="myApp" ng-controller="myController">
+    x:<input ng-model="x"><br>
+    y:<input ng-model="y"><br>
+    <button ng-click="add()">计算:</button>
+    结果:{{z}}
+</body>
+</html>

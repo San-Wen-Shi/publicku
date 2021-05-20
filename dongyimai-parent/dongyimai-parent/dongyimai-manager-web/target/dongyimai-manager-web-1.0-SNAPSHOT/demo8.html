@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo8-通过内置对象发请求</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+    <script>
+        var app = angular.module('myApp',[]);
+        app.controller("myController",function ($scope,$http) { // 名字myController的class，可以有属性，方法
+
+            // 客户端发请求,得响应
+            $scope.findAll=function () {
+                $http.get('data.json').success(
+                    function (response) {
+                        $scope.list = response;
+                    }
+                );
+            }
+        })
+    </script>
+</head>
+<!--V,在v中划分某个模块下的某个C-->
+<body ng-app="myApp" ng-controller="myController" ng-init="findAll()">
+
+    <table>
+        <tr ng-repeat="entity in list">
+            <td>{{entity.name}}</td>
+            <td>{{entity.shuxue}}</td>
+            <td>{{entity.yuwen}}</td>
+        </tr>
+    </table>
+</body>
+</html>

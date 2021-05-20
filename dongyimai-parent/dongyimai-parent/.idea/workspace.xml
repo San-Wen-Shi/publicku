@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18abf300-8c18-48ef-9bb7-e6abed208273" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="HTML4 File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="All in dongyimai-sellergoods-service (3)" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="userSettingsFile" value="F:\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1rhQE8DLQ5nqOkzqJgsbcfEjFA7" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619316305119" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dongyimai-sms-service/src/main/resources/spring" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\dongyimai-parent\dongyimai-parent\dongyimai-sms-service\src\main\webapp\WEB-INF" />
+      <recent name="D:\maven-ujiuye\dongyimai-parent\dongyimai-search-service\src\main\resources\spring" />
+      <recent name="D:\maven-ujiuye\dongyimai-parent\dongyimai-shop-web\src\main\resources" />
+      <recent name="D:\maven-ujiuye\dongyimai-parent\dongyimai-manager-web\src\main\webapp\plugins\select2" />
+      <recent name="D:\maven-ujiuye\dongyimai-parent\dongyimai-manager-web\src\main\webapp\js\controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.offcn" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.offcn.pojo" />
+      <recent name="com.offcn.sellergoods.controller" />
+      <recent name="com.offcn.shop.controller" />
+      <recent name="com.offcn.group" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\dongyimai-parent\dongyimai-parent\dongyimai-sms-service\src\main\resources\spring" />
+      <recent name="E:\dongyimai-parent\dongyimai-parent\dongyimai-page-service\src\main\webapp\WEB-INF\ftl" />
+      <recent name="E:\dongyimai-parent\dongyimai-parent\dongyimai-page-service\src\main\resources" />
+      <recent name="E:\dongyimai-parent\dongyimai-parent\dongyimai-page-service\src\main" />
+      <recent name="E:\dongyimai-parent\dongyimai-parent\dongyimai-search-web\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.forTest">
+    <configuration name="SolrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offcn.solrutil.SolrUtil" />
+      <module name="dongyimai-solr-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.solrutil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offcn.search.controller.forTest" />
+      <module name="dongyimai-search-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.search.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in dongyimai-sellergoods-service (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dongyimai-sellergoods-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in dongyimai-sellergoods-service (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dongyimai-sellergoods-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in dongyimai-sellergoods-service (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dongyimai-sellergoods-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.forTest" />
+        <item itemvalue="JUnit.All in dongyimai-sellergoods-service (4)" />
+        <item itemvalue="Application.SolrUtil" />
+        <item itemvalue="JUnit.All in dongyimai-sellergoods-service (3)" />
+        <item itemvalue="JUnit.All in dongyimai-sellergoods-service (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18abf300-8c18-48ef-9bb7-e6abed208273" name="Default Changelist" comment="" />
+      <created>1617778105054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617778105054</updated>
+      <workItem from="1617778108635" duration="559000" />
+      <workItem from="1617778676652" duration="10000" />
+      <workItem from="1617778798813" duration="10422000" />
+      <workItem from="1617799747788" duration="7774000" />
+      <workItem from="1617843582104" duration="1660000" />
+      <workItem from="1617860582778" duration="756000" />
+      <workItem from="1617866682761" duration="1790000" />
+      <workItem from="1617869734302" duration="149000" />
+      <workItem from="1617869916859" duration="19878000" />
+      <workItem from="1617896699076" duration="248000" />
+      <workItem from="1617932022963" duration="334000" />
+      <workItem from="1617933704398" duration="3221000" />
+      <workItem from="1617957299773" duration="19004000" />
+      <workItem from="1618135602615" duration="1351000" />
+      <workItem from="1618139693915" duration="725000" />
+      <workItem from="1618148952488" duration="333000" />
+      <workItem from="1618189248589" duration="3813000" />
+      <workItem from="1618216000630" duration="9721000" />
+      <workItem from="1618231127453" duration="13269000" />
+      <workItem from="1618276106086" duration="3591000" />
+      <workItem from="1618297976807" duration="2339000" />
+      <workItem from="1618302833033" duration="2050000" />
+      <workItem from="1618311219127" duration="10008000" />
+      <workItem from="1618322089008" duration="8609000" />
+      <workItem from="1618361773319" duration="4515000" />
+      <workItem from="1618383411378" duration="5476000" />
+      <workItem from="1618388954212" duration="2705000" />
+      <workItem from="1618398118414" duration="14854000" />
+      <workItem from="1618448332402" duration="3857000" />
+      <workItem from="1618465573336" duration="9599000" />
+      <workItem from="1618484808403" duration="6424000" />
+      <workItem from="1618497483088" duration="2382000" />
+      <workItem from="1618499909028" duration="130000" />
+      <workItem from="1618502043693" duration="1997000" />
+      <workItem from="1618534977547" duration="4082000" />
+      <workItem from="1618551774842" duration="14834000" />
+      <workItem from="1618724891055" duration="20208000" />
+      <workItem from="1618794069611" duration="4106000" />
+      <workItem from="1618811519556" duration="165000" />
+      <workItem from="1618818324746" duration="27057000" />
+      <workItem from="1618882148530" duration="128000" />
+      <workItem from="1618902956142" duration="13225000" />
+      <workItem from="1618930247379" duration="1971000" />
+      <workItem from="1618968580219" duration="926000" />
+      <workItem from="1618991384172" duration="74000" />
+      <workItem from="1619011856393" duration="5327000" />
+      <workItem from="1619088395830" duration="3121000" />
+      <workItem from="1619096904650" duration="7839000" />
+      <workItem from="1619161842785" duration="6205000" />
+      <workItem from="1619176781184" duration="5953000" />
+      <workItem from="1619183884246" duration="451000" />
+      <workItem from="1619185164115" duration="7579000" />
+      <workItem from="1619265899246" duration="10492000" />
+      <workItem from="1619312795996" duration="2586000" />
+      <workItem from="1619425745231" duration="636000" />
+      <workItem from="1619426461512" duration="4211000" />
+      <workItem from="1619439507509" duration="7010000" />
+      <workItem from="1619503860784" duration="17310000" />
+      <workItem from="1619571177794" duration="13234000" />
+      <workItem from="1619611254830" duration="2050000" />
+      <workItem from="1619618125776" duration="5239000" />
+      <workItem from="1619659355945" duration="8467000" />
+      <workItem from="1619766544885" duration="3209000" />
+      <workItem from="1620287138397" duration="4890000" />
+      <workItem from="1620462692457" duration="3677000" />
+      <workItem from="1620717367068" duration="8840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1619622823807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1619622823807" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619426416759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619426416759" />
+    <state x="511" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1619426550537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1619426550537" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1619620787613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1619620787613" />
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1619426087304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1619426087304" />
+    <state x="528" y="113" key="FileChooserDialogImpl" timestamp="1619426543206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619426543206" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1619702094221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619702094221" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1619702094221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619702094221" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1619702094221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619702094221" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1619702094221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619702094221" />
+    <state width="1493" height="412" key="GridCell.Tab.1.bottom" timestamp="1619526489445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="412" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619526489445" />
+    <state width="1493" height="412" key="GridCell.Tab.1.center" timestamp="1619526489444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="412" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619526489444" />
+    <state width="1493" height="412" key="GridCell.Tab.1.left" timestamp="1619526489444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="412" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619526489444" />
+    <state width="1493" height="412" key="GridCell.Tab.1.right" timestamp="1619526489445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="412" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619526489445" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1619766600599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619766600599" />
+    <state x="178" y="107" key="new project wizard" timestamp="1620304228148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1620304228148" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1619536339670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619536339670" />
+  </component>
+</project>
